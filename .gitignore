@@ -1,0 +1,4 @@
+# Ignore file to git base 
+out
+.idea
+DemoJavaProject.iml
