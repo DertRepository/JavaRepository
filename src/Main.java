@@ -1,4 +1,5 @@
 public class Main {
+//    Check
     static void argsPrinting(String msg, int... args) {
         for (int argsStore : args) {
             System.out.println(msg + "args[" + argsStore + "]" + argsStore * argsStore);
